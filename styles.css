@@ -1,0 +1,44 @@
+body{ background: #1c0d26;
+    
+}
+h3{
+    color: white;
+}
+
+
+#logo{
+    border: 1px solid;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 5px;
+    width: 4rem;
+    text-align: center;
+    background-color:whitesmoke;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+
+    font-size: 20px;
+}
+.imagetag{
+    display: flex;
+    justify-content: space-between;
+}
+.negative{
+    border: 5px solid;
+    background: #1c0d26;
+    color: seashell;
+    border-radius: 5px;
+    padding: 10px;
+}
+.line{
+    color:seashell;
+    
+}
+.newdir{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    padding: 10px;
+}
