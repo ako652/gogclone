@@ -13,7 +13,7 @@ h3{
     border-radius: 5px;
     width: 4rem;
     text-align: center;
-    background-color:whitesmoke;
+    
 }
 .icon{
     display: flex;
@@ -36,9 +36,15 @@ h3{
     color:seashell;
     
 }
-.newdir{
-    position: absolute;
-    top: 0%;
-    right: 0%;
-    padding: 10px;
+.halfwidth{
+    display: inline-block;
+
+    
+    border: springgreen solid;
 }
+.textedline{
+    text-decoration: line-through;
+    color: darkgrey;
+}
+
+  
